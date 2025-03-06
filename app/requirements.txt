@@ -1,0 +1,3 @@
+requests==2.27.1
+streamlit==1.10.0
+altair==4.2.2  # Streamlit과 호환되는 버전
